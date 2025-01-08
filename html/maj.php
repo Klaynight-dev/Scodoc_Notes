@@ -447,7 +447,7 @@ chmod 744 installOrUpdate.sh
 			<li>Mise en place d'un système de gestion des comptes.</li>
 			<li>Mise en place d'une communication avec le LDAP pour récupérer statut.</li>
 			<li>Prise en charge automatique des relevés DUT et BUT.</li>
-			<li>Lise en place d'un système de gestion des photos étudiants : l'étudiant gère sa propre photo. Les photos serveur pour les trombinoscopes et les absences.</li>
+			<li>Mise en place d'un système de gestion des photos étudiants : l'étudiant gère sa propre photo. Les photos serveur pour les trombinoscopes et les absences.</li>
 			<li>Mise en place d'un système pour un versionnage du fichier de configuration et d'une configuration par défaut.</li>
 		</ul>
 
